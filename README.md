@@ -1,4 +1,4 @@
-# Api Nodejs within MSSQL Server
+# Api Nodejs with SQL Server
 
 Test it using Postman.
 
@@ -13,7 +13,7 @@ Basic structure to initialize any project. Following dependencies:
 6. path
 7. util
 
-## Instructions
+## Instructions to initialize
 
 Clone this repository and delete the .git folder.
 
